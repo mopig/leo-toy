@@ -34,6 +34,10 @@
   "name": "leo-toy",
   "author": "周升利",
   "module": "dist/leo-toy.esm.js",
+  "np": {
+    "yarn": false,
+    "contents": "dist"
+  },
   "size-limit": [
     {
       "path": "dist/leo-toy.cjs.production.min.js",
